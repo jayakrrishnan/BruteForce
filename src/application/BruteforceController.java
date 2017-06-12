@@ -131,7 +131,7 @@ public class BruteforceController implements Initializable{
 	        } 
 	        
 	        
-	        filename.setPromptText("FileName");
+	        filename.setPromptText("FileName.txt");
 	        Button gen = new Button("Generate");
 	        hbox2.getChildren().addAll(filename,gen);
 	        
